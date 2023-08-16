@@ -10,9 +10,9 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/aoe198185/aoe198185.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "测试"
-sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           # 是否使用侧边栏.
+sidebar-about-description: "测试"       # 侧边栏内容
+sidebar-avatar: /img/will-wang.jpg      # 个人头像
 
 
 
@@ -72,10 +72,10 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id:
 
 # Google Analytics
-#ga_track_id: 'UA-137811562-1'            # Format: UA-xxxxxx-xx
+#ga_track_id: ''            # Format: UA-xxxxxx-xx
 #ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
