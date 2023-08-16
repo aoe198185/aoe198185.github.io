@@ -1,4 +1,5 @@
-
+博客搭建学于 ![](https://github.com/flyingwzb/flyingwzb.github.io)，已为其 ![image](https://github.com/aoe198185/aoe198185.github.io/assets/142326154/457824fa-431c-45f3-9647-bbc8d32c1359)
+以下是原有的说明书
 
 ![](https://raw.githubusercontent.com/flyingwzb/flyingwzb.github.io/master/img/readme-home.png)
 
