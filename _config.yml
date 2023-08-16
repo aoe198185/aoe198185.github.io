@@ -11,7 +11,7 @@ github_repo: "https://github.com/aoe198185/aoe198185.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # 是否使用侧边栏.
-sidebar-about-description: "测试"       # 侧边栏内容
+sidebar-about-description: "小恶龙不会飞"       # 侧边栏内容
 sidebar-avatar: /img/will-elong.jpg      # 个人头像
 
 
