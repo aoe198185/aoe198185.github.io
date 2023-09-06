@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      靶场日记|Me and My Girlfriend    			# 标题 
-subtitle:    # 副标题
+title:      靶场日记    			# 标题 
+subtitle:   Me and My Girlfriend # 副标题
 date:       2023-09-06				# 时间
 author:     xiaoelong 				# 作者
 header-img: img/post-bg-article.jpg 	# 这篇文章标题背景图片
